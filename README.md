@@ -24,3 +24,9 @@ Snyk IaC によって `.tfstate` ファイル と 実際の Google Cloud プロ�
 ## Click here for details
 
 - [Snyk を使って Google Cloud の IaC 環境をセキュアに管理してみる](https://zenn.dev/nozomi_cobo/articles/snyk-iac-google-cloud)
+
+## Other Repositories
+
+- [mood-trend-flutter](https://github.com/Mood-Trend/mood-trend-flutter)
+- [mood-trend-firebase](https://github.com/Mood-Trend/mood-trend-firebase)
+- [mood-trend-terraform](https://github.com/Mood-Trend/mood-trend-terraform)
